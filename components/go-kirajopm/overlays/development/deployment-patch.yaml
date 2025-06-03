@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/go-kirajopm:6069e5bbbd23ab0d6faf367b2eb4390c0b4f0e54@sha256:56ab91b46a0bb92364d934fa74e6f60d10f382e4296d899af175df67dd826f10
+        - image: quay.io/jsmid/go-kirajopm:27ce888e56b76e5a716e05517bdc54da486f5826@sha256:5ea5f48fd06e2ac46c68bd7ece3da2b3cca6db833b9ef67ebddc0b4b7d6aa3c6
           name: container-image
